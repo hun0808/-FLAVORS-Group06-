@@ -1,10 +1,34 @@
-- 👋 Hi, I’m @hun0808
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-FLAVORS-_-Group06-
+FLAVORS
 
-<!---
-hun0808/hun0808 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+=======================================
+
+Supervisor: LÊ THANH NHÂN
+
+Semester: I
+
+Batch No: T1.2204.M0
+
+Group No: 06
+
+List Of Member:
+
+Phan Gia Hưng (Student1379731)
+
+Đào Đức Bình (Student1376110)
+
+Nguyễn Ngọc Điệp (Student1376121)
+
+Vũ Văn Cao Trí (Student1376119)
+
+=======================================
+
+Documentations : https://tinyurl.com/4x83atst
+
+=======================================
+
+Published website : https://diep2001.github.io/-FLAVORS-_-Group06-/
+
+=======================================
+
+Thank you for visit our website.
